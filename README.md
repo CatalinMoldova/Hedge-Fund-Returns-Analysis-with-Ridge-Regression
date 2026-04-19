@@ -25,18 +25,3 @@ Fama-French Research Data (5 Factors) covering market returns from 1963 onwards,
 ### Implementation Highlights
 
 Ridge regression with regularization parameter optimization, statistical analysis of fund performance metrics (mean, standard deviation, skewness, kurtosis), and time-series feature engineering for financial forecasting.
-
----
-
-This description captures the academic nature of the assignment while highlighting the practical machine learning and quantitative finance skills demonstrated in the implementation.
-
-[1](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[2](https://github.com/othneildrew/Best-README-Template)
-[3](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-[4](https://joost.blog/healthy-github-repository/)
-[5](https://docs.github.com/en/apps/github-marketplace/listing-an-app-on-github-marketplace/writing-a-listing-description-for-your-app)
-[6](https://dev.to/maddy/how-to-write-the-perfect-documentation-for-your-github-project-4k38)
-[7](https://gist.github.com/ramantehlan/602ad8525699486e097092e4158c5bf1)
-[8](https://www.reddit.com/r/learnprogramming/comments/8u8rrv/what_should_a_github_repo_include_what_is_the/)
-[9](https://stackoverflow.com/questions/6866838/what-should-be-in-the-git-description-file)
-[10](https://www.reddit.com/r/github/comments/on219t/examples_of_good_looking_project_repos/)
